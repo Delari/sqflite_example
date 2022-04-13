@@ -1,6 +1,6 @@
 # sqflite_example
 
-A new Flutter project.
+Simple Sqflite example on Android API 30 (min. SDK 16) using flutter 2.0+
 
 ## Getting Started
 
