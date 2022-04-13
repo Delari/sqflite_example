@@ -1,4 +1,4 @@
-final String tableNotes = 'notes';
+const String tableNotes = 'notes';
 
 class NoteFields {
   static final List<String> values = [
